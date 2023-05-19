@@ -1,11 +1,11 @@
 @import url("./colors.css");
 @font-face {
-  font-family: "Roboto Mono";
-  src: url("./Rajdhani-Regular.ttf");
+  font-family: "Rajdhani Medium";
+  src: url("./Rajdhani-Medium.ttf");
 }
 
 :root {
-  --font: "Roboto Mono";
+  --font: "Rajdhani Medium";
   /* --background: var(--background); */
   /* --foreground: #fffffe; */
   /* --pink: #e53170; */
